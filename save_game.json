@@ -1,0 +1,1 @@
+{"player": {"name": "Baker", "role": "Samurai", "hp": -3, "attack": 20, "honor": 45}, "characters": [{"name": "Hanzo", "role": "Samurai", "hp": 4, "attack": 20, "honor": 50}, {"name": "Yoshi", "role": "Monk", "hp": 80, "attack": 15, "honor": 50}], "clan": {"name": "Tokugawa", "allies": ["Tokugawa"], "enemies": []}}
