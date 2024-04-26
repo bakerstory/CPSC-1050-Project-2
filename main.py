@@ -3,6 +3,7 @@
 # Project 2: RPG
 # 4/25/2024
 # Section: 001
+# Github link:
 # Description:"Shadows of the Shogunate" is a text-based game where players take on the role of a Samurai navigating through battles and clan politics. The game features combat, clan management, a navigable map, and persistent game states through save/load functionalities.
 
 
